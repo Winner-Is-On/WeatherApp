@@ -12,7 +12,7 @@
     --colorLight2: #F9F7F7;
 }
 body{
-    background-image: url("./images/3D_Animation_Style_weather_for_climate_0.jpg");
+    background-image: url("./images/bg_img.jpg");
     object-fit: cover;
     background-size: cover;
     overflow-x: hidden;
