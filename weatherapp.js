@@ -13,7 +13,7 @@ const targetElement = document.getElementsByName("body");
 //initially vairables need????
 
 let oldTab = userTab;
-const API_KEY = "46a371aa96c713cee29d72c4ac8b8a39";
+ const API_KEY = "{CREATE YOUR OWN API KWY ON OpenWeather -->https://openweathermap.org/}";
 oldTab.classList.add("current-tab");
 getfromSessionStorage();
 
