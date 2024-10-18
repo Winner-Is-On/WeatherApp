@@ -211,6 +211,7 @@ h1 {
 .form-container input{
     all:unset;
     width: calc(100% - 80px);
+    color: rgb(29, 11, 11);
     height:40px;
     padding: 0 20px;
     background-color:rgba(219, 226, 239, 0.5);
